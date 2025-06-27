@@ -1,6 +1,6 @@
 # AUD/USD Option Risk Diagnostics Tool
 
-## project Overview
+## Project Overview
 
 This project is a Python-based risk diagnostics tool designed to evaluate and visualize the risk sensitivities (Greeks) of European-style FX options on AUD/USD, using the Black-Scholes pricing framework.
 
